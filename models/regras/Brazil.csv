@@ -1,0 +1,137 @@
+id|premissa|conclusao|suporte|confiança
+12|composure_(69.6, 75.2]|international_reputation_(0.996, 1.4]|0.29|0.828571428571429
+13|composure_(69.6, 75.2]|eur_value_(-62940.0, 12354000.0], international_reputation_(0.996, 1.4]|0.29|0.828571428571429
+14|skill_moves_(3.8, 4.1]|eur_value_(-62940.0, 12354000.0]|0.39|0.829787234042553
+15|body_type_Normal|international_reputation_(0.996, 1.4]|0.41|0.836734693877551
+16|eur_value_(-62940.0, 12354000.0], international_reputation_(0.996, 1.4], weak_foot_(2.6, 3.0]|work_rate_def_Medium|0.33|0.846153846153846
+17|penalties_(67.5, 74.0]|international_reputation_(0.996, 1.4]|0.28|0.848484848484848
+18|eur_value_(-62940.0, 12354000.0], preferred_foot_Left|international_reputation_(0.996, 1.4]|0.28|0.848484848484848
+19|eur_value_(-62940.0, 12354000.0], weak_foot_(2.6, 3.0]|work_rate_def_Medium|0.34|0.85
+20|preferred_foot_Right, work_rate_att_High|eur_value_(-62940.0, 12354000.0]|0.29|0.852941176470588
+21|preferred_foot_Right, work_rate_att_High|international_reputation_(0.996, 1.4]|0.29|0.852941176470588
+22|preferred_foot_Right, work_rate_att_High|eur_value_(-62940.0, 12354000.0], international_reputation_(0.996, 1.4]|0.29|0.852941176470588
+23|work_rate_def_Medium|eur_value_(-62940.0, 12354000.0], international_reputation_(0.996, 1.4]|0.59|0.855072463768116
+24|body_type_Normal|eur_value_(-62940.0, 12354000.0]|0.42|0.857142857142857
+25|work_rate_att_Medium|eur_value_(-62940.0, 12354000.0], international_reputation_(0.996, 1.4]|0.43|0.86
+26|weak_foot_(3.8, 4.2]|eur_value_(-62940.0, 12354000.0]|0.31|0.861111111111111
+27|work_rate_def_Medium, work_rate_att_Medium|eur_value_(-62940.0, 12354000.0], international_reputation_(0.996, 1.4]|0.32|0.864864864864865
+28|work_rate_def_Medium|international_reputation_(0.996, 1.4]|0.6|0.869565217391304
+29|body_type_Lean|eur_value_(-62940.0, 12354000.0], international_reputation_(0.996, 1.4]|0.4|0.869565217391304
+30|preferred_foot_Right|eur_value_(-62940.0, 12354000.0]|0.56|0.875
+31|preferred_foot_Right|eur_value_(-62940.0, 12354000.0], international_reputation_(0.996, 1.4]|0.56|0.875
+32|work_rate_def_Medium, skill_moves_(3.8, 4.1]|eur_value_(-62940.0, 12354000.0]|0.28|0.875
+33|work_rate_att_High|eur_value_(-62940.0, 12354000.0]|0.44|0.88
+34|work_rate_def_Medium, preferred_foot_Right|eur_value_(-62940.0, 12354000.0]|0.38|0.883720930232558
+35|work_rate_def_Medium, preferred_foot_Right|eur_value_(-62940.0, 12354000.0], international_reputation_(0.996, 1.4]|0.38|0.883720930232558
+36|weak_foot_(2.6, 3.0]|eur_value_(-62940.0, 12354000.0], international_reputation_(0.996, 1.4]|0.39|0.886363636363636
+37|preferred_foot_Right|international_reputation_(0.996, 1.4]|0.57|0.890625
+38|body_type_Lean|international_reputation_(0.996, 1.4]|0.41|0.891304347826087
+39|work_rate_def_Medium, work_rate_att_Medium|international_reputation_(0.996, 1.4]|0.33|0.891891891891892
+40|volleys_(59.5, 65.2]|eur_value_(-62940.0, 12354000.0], international_reputation_(0.996, 1.4]|0.34|0.894736842105263
+41|eur_value_(-62940.0, 12354000.0], skill_moves_(3.8, 4.1]|international_reputation_(0.996, 1.4]|0.35|0.897435897435897
+42|work_rate_att_Medium|eur_value_(-62940.0, 12354000.0]|0.45|0.9
+43|work_rate_att_Medium|international_reputation_(0.996, 1.4]|0.45|0.9
+44|preferred_foot_Right, body_type_Lean|eur_value_(-62940.0, 12354000.0]|0.28|0.903225806451613
+45|preferred_foot_Right, body_type_Lean|international_reputation_(0.996, 1.4]|0.28|0.903225806451613
+46|preferred_foot_Right, body_type_Lean|eur_value_(-62940.0, 12354000.0], international_reputation_(0.996, 1.4]|0.28|0.903225806451613
+47|eur_value_(-62940.0, 12354000.0], composure_(69.6, 75.2]|international_reputation_(0.996, 1.4]|0.29|0.90625
+48|work_rate_def_Medium, work_rate_att_High|eur_value_(-62940.0, 12354000.0]|0.29|0.90625
+49|work_rate_def_Medium, preferred_foot_Right|international_reputation_(0.996, 1.4]|0.39|0.906976744186046
+50|weak_foot_(2.6, 3.0]|eur_value_(-62940.0, 12354000.0]|0.4|0.909090909090909
+51|penalties_(67.5, 74.0]|eur_value_(-62940.0, 12354000.0]|0.3|0.909090909090909
+52|weak_foot_(2.6, 3.0]|international_reputation_(0.996, 1.4]|0.4|0.909090909090909
+53|weight_kg_(69.2, 72.0]|international_reputation_(0.996, 1.4]|0.3|0.909090909090909
+54|weight_kg_(69.2, 72.0]|eur_value_(-62940.0, 12354000.0], international_reputation_(0.996, 1.4]|0.3|0.909090909090909
+55|special_(1786.0, 1881.8]|eur_value_(-62940.0, 12354000.0], international_reputation_(0.996, 1.4]|0.31|0.911764705882353
+56|work_rate_def_Medium, body_type_Lean|international_reputation_(0.996, 1.4]|0.31|0.911764705882353
+57|work_rate_def_Medium, body_type_Lean|eur_value_(-62940.0, 12354000.0], international_reputation_(0.996, 1.4]|0.31|0.911764705882353
+58|work_rate_def_Medium|eur_value_(-62940.0, 12354000.0]|0.63|0.91304347826087
+59|body_type_Lean|eur_value_(-62940.0, 12354000.0]|0.42|0.91304347826087
+60|composure_(69.6, 75.2]|eur_value_(-62940.0, 12354000.0]|0.32|0.914285714285714
+61|preferred_foot_Left|eur_value_(-62940.0, 12354000.0]|0.33|0.916666666666667
+62|work_rate_def_Medium, weak_foot_(2.6, 3.0]|international_reputation_(0.996, 1.4]|0.33|0.916666666666667
+63|work_rate_def_Medium, weak_foot_(2.6, 3.0]|eur_value_(-62940.0, 12354000.0], international_reputation_(0.996, 1.4]|0.33|0.916666666666667
+64|eur_value_(-62940.0, 12354000.0], volleys_(59.5, 65.2]|international_reputation_(0.996, 1.4]|0.34|0.918918918918919
+65|pac_(78.7, 83.8]|eur_value_(-62940.0, 12354000.0], international_reputation_(0.996, 1.4]|0.34|0.918918918918919
+66|work_rate_def_Medium, work_rate_att_Medium|eur_value_(-62940.0, 12354000.0]|0.34|0.918918918918919
+67|volleys_(59.5, 65.2]|international_reputation_(0.996, 1.4]|0.35|0.921052631578947
+68|eur_value_(-62940.0, 12354000.0], work_rate_att_High|international_reputation_(0.996, 1.4]|0.41|0.931818181818182
+69|preferred_foot_Right, work_rate_att_Medium|international_reputation_(0.996, 1.4]|0.28|0.933333333333333
+70|eur_value_(-62940.0, 12354000.0], weak_foot_(3.8, 4.2]|international_reputation_(0.996, 1.4]|0.29|0.935483870967742
+71|eur_value_(-62940.0, 12354000.0], work_rate_def_Medium|international_reputation_(0.996, 1.4]|0.59|0.936507936507936
+72|weight_kg_(69.2, 72.0]|eur_value_(-62940.0, 12354000.0]|0.31|0.939393939393939
+73|eur_value_(-62940.0, 12354000.0], special_(1786.0, 1881.8]|international_reputation_(0.996, 1.4]|0.31|0.939393939393939
+74|special_(1786.0, 1881.8]|international_reputation_(0.996, 1.4]|0.32|0.941176470588235
+75|work_rate_def_Medium, body_type_Lean|eur_value_(-62940.0, 12354000.0]|0.32|0.941176470588235
+76|eur_value_(-62940.0, 12354000.0], work_rate_def_Medium, work_rate_att_Medium|international_reputation_(0.996, 1.4]|0.32|0.941176470588235
+77|eur_value_(-62940.0, 12354000.0]|international_reputation_(0.996, 1.4]|0.84|0.943820224719101
+78|work_rate_def_Medium, weak_foot_(2.6, 3.0]|eur_value_(-62940.0, 12354000.0]|0.34|0.944444444444444
+79|pac_(78.7, 83.8]|eur_value_(-62940.0, 12354000.0]|0.35|0.945945945945946
+80|pac_(78.7, 83.8]|international_reputation_(0.996, 1.4]|0.35|0.945945945945946
+81|potential_(70.0, 74.0]|international_reputation_(0.996, 1.4]|0.38|0.95
+82|potential_(70.0, 74.0]|eur_value_(-62940.0, 12354000.0], international_reputation_(0.996, 1.4]|0.38|0.95
+83|eur_value_(-62940.0, 12354000.0], potential_(70.0, 74.0]|international_reputation_(0.996, 1.4]|0.38|0.95
+84|eur_value_(-62940.0, 12354000.0], body_type_Normal|international_reputation_(0.996, 1.4]|0.4|0.952380952380952
+85|eur_value_(-62940.0, 12354000.0], body_type_Lean|international_reputation_(0.996, 1.4]|0.4|0.952380952380952
+86|eur_value_(-62940.0, 12354000.0], work_rate_att_Medium|international_reputation_(0.996, 1.4]|0.43|0.955555555555556
+87|international_reputation_(0.996, 1.4], work_rate_att_Medium|eur_value_(-62940.0, 12354000.0]|0.43|0.955555555555556
+88|international_reputation_(0.996, 1.4], preferred_foot_Left|eur_value_(-62940.0, 12354000.0]|0.28|0.96551724137931
+89|eur_value_(-62940.0, 12354000.0], weight_kg_(69.2, 72.0]|international_reputation_(0.996, 1.4]|0.3|0.967741935483871
+90|work_rate_def_Medium, potential_(70.0, 74.0]|international_reputation_(0.996, 1.4]|0.3|0.967741935483871
+91|work_rate_def_Medium, potential_(70.0, 74.0]|eur_value_(-62940.0, 12354000.0], international_reputation_(0.996, 1.4]|0.3|0.967741935483871
+92|eur_value_(-62940.0, 12354000.0], work_rate_def_Medium, potential_(70.0, 74.0]|international_reputation_(0.996, 1.4]|0.3|0.967741935483871
+93|penalties_(61.0, 67.5]|eur_value_(-62940.0, 12354000.0]|0.31|0.96875
+94|penalties_(61.0, 67.5]|international_reputation_(0.996, 1.4]|0.31|0.96875
+95|international_reputation_(0.996, 1.4], special_(1786.0, 1881.8]|eur_value_(-62940.0, 12354000.0]|0.31|0.96875
+96|penalties_(61.0, 67.5]|eur_value_(-62940.0, 12354000.0], international_reputation_(0.996, 1.4]|0.31|0.96875
+97|eur_value_(-62940.0, 12354000.0], work_rate_def_Medium, body_type_Lean|international_reputation_(0.996, 1.4]|0.31|0.96875
+98|international_reputation_(0.996, 1.4], work_rate_def_Medium, work_rate_att_Medium|eur_value_(-62940.0, 12354000.0]|0.32|0.96969696969697
+99|special_(1786.0, 1881.8]|eur_value_(-62940.0, 12354000.0]|0.33|0.970588235294117
+100|eur_value_(-62940.0, 12354000.0], work_rate_def_Medium, weak_foot_(2.6, 3.0]|international_reputation_(0.996, 1.4]|0.33|0.970588235294117
+101|international_reputation_(0.996, 1.4], volleys_(59.5, 65.2]|eur_value_(-62940.0, 12354000.0]|0.34|0.971428571428571
+102|eur_value_(-62940.0, 12354000.0], pac_(78.7, 83.8]|international_reputation_(0.996, 1.4]|0.34|0.971428571428571
+103|international_reputation_(0.996, 1.4], pac_(78.7, 83.8]|eur_value_(-62940.0, 12354000.0]|0.34|0.971428571428571
+104|international_reputation_(0.996, 1.4], skill_moves_(3.8, 4.1]|eur_value_(-62940.0, 12354000.0]|0.35|0.972222222222222
+105|volleys_(59.5, 65.2]|eur_value_(-62940.0, 12354000.0]|0.37|0.973684210526316
+106|international_reputation_(0.996, 1.4], work_rate_def_Medium, preferred_foot_Right|eur_value_(-62940.0, 12354000.0]|0.38|0.974358974358974
+107|eur_value_(-62940.0, 12354000.0], weak_foot_(2.6, 3.0]|international_reputation_(0.996, 1.4]|0.39|0.975
+108|international_reputation_(0.996, 1.4], weak_foot_(2.6, 3.0]|eur_value_(-62940.0, 12354000.0]|0.39|0.975
+109|international_reputation_(0.996, 1.4], body_type_Normal|eur_value_(-62940.0, 12354000.0]|0.4|0.975609756097561
+110|international_reputation_(0.996, 1.4], body_type_Lean|eur_value_(-62940.0, 12354000.0]|0.4|0.975609756097561
+111|international_reputation_(0.996, 1.4]|eur_value_(-62940.0, 12354000.0]|0.84|0.976744186046512
+112|skill_moves_(2.9, 3.2]|international_reputation_(0.996, 1.4]|0.46|0.978723404255319
+113|skill_moves_(2.9, 3.2]|eur_value_(-62940.0, 12354000.0], international_reputation_(0.996, 1.4]|0.46|0.978723404255319
+114|eur_value_(-62940.0, 12354000.0], skill_moves_(2.9, 3.2]|international_reputation_(0.996, 1.4]|0.46|0.978723404255319
+115|international_reputation_(0.996, 1.4], preferred_foot_Right|eur_value_(-62940.0, 12354000.0]|0.56|0.982456140350877
+116|international_reputation_(0.996, 1.4], work_rate_def_Medium|eur_value_(-62940.0, 12354000.0]|0.59|0.983333333333333
+117|skill_moves_(2.9, 3.2]|eur_value_(-62940.0, 12354000.0]|0.47|1
+118|potential_(70.0, 74.0]|eur_value_(-62940.0, 12354000.0]|0.4|1
+119|agility_(81.6, 86.4]|international_reputation_(0.996, 1.4]|0.28|1
+120|eur_value_(-62940.0, 12354000.0], preferred_foot_Right|international_reputation_(0.996, 1.4]|0.56|1
+121|international_reputation_(0.996, 1.4], work_rate_att_High|eur_value_(-62940.0, 12354000.0]|0.41|1
+122|international_reputation_(0.996, 1.4], skill_moves_(2.9, 3.2]|eur_value_(-62940.0, 12354000.0]|0.46|1
+123|international_reputation_(0.996, 1.4], potential_(70.0, 74.0]|eur_value_(-62940.0, 12354000.0]|0.38|1
+124|international_reputation_(0.996, 1.4], weak_foot_(3.8, 4.2]|eur_value_(-62940.0, 12354000.0]|0.29|1
+125|international_reputation_(0.996, 1.4], composure_(69.6, 75.2]|eur_value_(-62940.0, 12354000.0]|0.29|1
+126|international_reputation_(0.996, 1.4], weight_kg_(69.2, 72.0]|eur_value_(-62940.0, 12354000.0]|0.3|1
+127|eur_value_(-62940.0, 12354000.0], penalties_(61.0, 67.5]|international_reputation_(0.996, 1.4]|0.31|1
+128|international_reputation_(0.996, 1.4], penalties_(61.0, 67.5]|eur_value_(-62940.0, 12354000.0]|0.31|1
+129|work_rate_def_Medium, skill_moves_(2.9, 3.2]|eur_value_(-62940.0, 12354000.0]|0.32|1
+130|work_rate_def_Medium, potential_(70.0, 74.0]|eur_value_(-62940.0, 12354000.0]|0.31|1
+131|preferred_foot_Right, skill_moves_(2.9, 3.2]|eur_value_(-62940.0, 12354000.0]|0.29|1
+132|work_rate_def_Medium, skill_moves_(2.9, 3.2]|international_reputation_(0.996, 1.4]|0.32|1
+133|preferred_foot_Right, skill_moves_(2.9, 3.2]|international_reputation_(0.996, 1.4]|0.29|1
+134|eur_value_(-62940.0, 12354000.0], work_rate_def_Medium, preferred_foot_Right|international_reputation_(0.996, 1.4]|0.38|1
+135|work_rate_def_Medium, skill_moves_(2.9, 3.2]|eur_value_(-62940.0, 12354000.0], international_reputation_(0.996, 1.4]|0.32|1
+136|eur_value_(-62940.0, 12354000.0], work_rate_def_Medium, skill_moves_(2.9, 3.2]|international_reputation_(0.996, 1.4]|0.32|1
+137|international_reputation_(0.996, 1.4], work_rate_def_Medium, skill_moves_(2.9, 3.2]|eur_value_(-62940.0, 12354000.0]|0.32|1
+138|international_reputation_(0.996, 1.4], work_rate_def_Medium, body_type_Lean|eur_value_(-62940.0, 12354000.0]|0.31|1
+139|international_reputation_(0.996, 1.4], work_rate_def_Medium, weak_foot_(2.6, 3.0]|eur_value_(-62940.0, 12354000.0]|0.33|1
+140|international_reputation_(0.996, 1.4], work_rate_def_Medium, potential_(70.0, 74.0]|eur_value_(-62940.0, 12354000.0]|0.3|1
+141|eur_value_(-62940.0, 12354000.0], preferred_foot_Right, work_rate_att_High|international_reputation_(0.996, 1.4]|0.29|1
+142|international_reputation_(0.996, 1.4], preferred_foot_Right, work_rate_att_High|eur_value_(-62940.0, 12354000.0]|0.29|1
+143|preferred_foot_Right, skill_moves_(2.9, 3.2]|eur_value_(-62940.0, 12354000.0], international_reputation_(0.996, 1.4]|0.29|1
+144|eur_value_(-62940.0, 12354000.0], preferred_foot_Right, skill_moves_(2.9, 3.2]|international_reputation_(0.996, 1.4]|0.29|1
+145|international_reputation_(0.996, 1.4], preferred_foot_Right, skill_moves_(2.9, 3.2]|eur_value_(-62940.0, 12354000.0]|0.29|1
+146|eur_value_(-62940.0, 12354000.0], preferred_foot_Right, body_type_Lean|international_reputation_(0.996, 1.4]|0.28|1
+147|international_reputation_(0.996, 1.4], preferred_foot_Right, body_type_Lean|eur_value_(-62940.0, 12354000.0]|0.28|1
